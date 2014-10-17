@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nbv:home|Door43 (nbv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nbv|d43-nbv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nbv/archive/master.zip|d43-nbv.zip]]
+
+**Recent Changes**
+{{changes>ns = nbv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nbv|Ethnologue data]]
+
